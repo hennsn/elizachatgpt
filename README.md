@@ -1,2 +1,3 @@
-# elizachatgpt
-2023_SS_SEMINAR_Von_Eliza_bis_ChatGPT
+# Von Eliza bis ChatGPT
+## Eine praktische Einführung in die Sprachmodellierung
+
