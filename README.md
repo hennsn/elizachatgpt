@@ -32,3 +32,9 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 * 19.6.2023: Dialogmodellierung (online)
 * 26.6.2023: Diskussionsveranstaltung: Lernen und Lehren in Zeiten von ChatGPT (SR 130)
 * 3.7.2023: Abschlussveranstaltung (online)
+
+### Sources
+* 
+
+### Questions
+* 
