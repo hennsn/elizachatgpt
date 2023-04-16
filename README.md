@@ -5,7 +5,7 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 
 ### Moduldetails
 
-* Termin: jeden **Montag 16-18 Uhr**, erster Termin: 3.04.2021, letzter Termin: 3.07.2021 
+* Termin: jeden **Montag 16-18 Uhr**, erster Termin: 03.04.2021, letzter Termin: 03.07.2021 
 * Ort: **siehe private Mail**
 * Kennwort: **siehe private Mail**
 * Leistungspunkte: **3LP**
