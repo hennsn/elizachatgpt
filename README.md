@@ -21,14 +21,14 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 
 ### Ablaufplan
 
-* 3.04.2021: Einführungsveranstaltung 
-* 17.4.23: Sprache und Sprachmodellierung (SR 130)
-* 24.4.23: N-Gram Modelle (online)
-* 8.5.23: Tokens und Embeddings (online)
-* 15.5.23: MLP Sprachmodelle (SR 130)
-* 22.5.23: CNN Sprachmodelle (online)
-* 5.6.23: RNN Sprachmodelle (SR 130)
-* 12.6.23: Transformer Sprachmodelle (online)
-* 19.6.23: Dialogmodellierung (online)
-* 26.6.23: Diskussionsveranstaltung: Lernen und Lehren in Zeiten von ChatGPT (SR 130)
-* 3.7.23: Abschlussveranstaltung (online)
+* 3.04.2023: Einführungsveranstaltung 
+* 17.4.2023: Sprache und Sprachmodellierung (SR 130)
+* 24.4.2023: N-Gram Modelle (online)
+* 8.5.2023: Tokens und Embeddings (online)
+* 15.5.2023: MLP Sprachmodelle (SR 130)
+* 22.5.2023: CNN Sprachmodelle (online)
+* 5.6.2023: RNN Sprachmodelle (SR 130)
+* 12.6.2023: Transformer Sprachmodelle (online)
+* 19.6.2023: Dialogmodellierung (online)
+* 26.6.2023: Diskussionsveranstaltung: Lernen und Lehren in Zeiten von ChatGPT (SR 130)
+* 3.7.2023: Abschlussveranstaltung (online)
