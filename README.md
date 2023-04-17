@@ -46,6 +46,10 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 - Matthew Berman: https://www.youtube.com/@matthew_berman
 - Sam Witteveen: https://www.youtube.com/@samwitteveenai
 
+
+---
+
+
 #### Dataset Collection
 - Huggingface: https://huggingface.co/datasets
 - PapersWithCode: https://paperswithcode.com/datasets?q=&v=lst&o=newest
