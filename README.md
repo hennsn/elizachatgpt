@@ -7,9 +7,8 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 
 * Termin: jeden **Montag 16-18 Uhr**, erster Termin: 03.04.2021, letzter Termin: 03.07.2021 
 * Ort: **siehe private Mail**
-* Kennwort: **siehe private Mail**
 * Leistungspunkte: **3LP**
-* Prüfungsleistung: einmalige **20-minütige Paper-Präsentation inkl. Ausarbeitung** + Diskussion 
+* Prüfungsleistung: einmalige **20-minütige Präsentation inkl. Ausarbeitung** + Diskussion 
 * Sprache: deutsch (english on demand)
 
 ### Inhalt 
