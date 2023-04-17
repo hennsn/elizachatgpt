@@ -33,7 +33,19 @@ Im Ordner /materials befinden sich die Slides zur jeweiligen Veranstaltung.
 * 3.7.2023: Abschlussveranstaltung (online)
 
 ### Sources
-* 
+#### Dataset Collection
+- Huggingface: https://huggingface.co/datasets
+- PapersWithCode: https://paperswithcode.com/datasets?q=&v=lst&o=newest
+- Synthetic Data Generation from Language Models: https://www.youtube.com/watch?v=ivXcInXR5jo
 
-### Questions
-* 
+#### Model Training
+- OpenAssistant Models: https://huggingface.co/OpenAssistant
+- FLAN-T5 Models: https://www.youtube.com/watch?v=DcDwHM54oyg&list=PLgy71-0-2-F30F5jSZnfFbqXVcclFf5zH
+- Awesome LLMs list: https://github.com/Hannibal046/Awesome-LLM
+- Vicunha: https://medium.com/mlearning-ai/the-significance-of-vicuna-an-open-source-large-language-model-for-chatbots-23b4765711ff
+
+#### Deployment
+- Streamlit: https://streamlit.io/
+- Gradio: https://gradio.app/
+- FastAPI: https://fastapi.tiangolo.com/
+- Token Streaming: https://www.youtube.com/watch?v=6OozhhI6U4g
